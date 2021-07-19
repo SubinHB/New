@@ -1,0 +1,21 @@
+Chrome Browser is selected
+IRCTC website is launched correctly
+
+ Number of trains available on 12/07/2021: 5
+HYB CSMT SPL (02702)
+SC RJT SPL (02756)
+VSKP LTT SPL (08519)
+HYB CSMT SPL (07032)
+BBS CSMT SPL (01020)
+
+ Booking Date : 12 Jul
+***************14:50 | HYDERABAD DECAN | Mon, 12 Jul
+Date and city of the train are verified
+***************15:00 | SECUNDERABAD JN | Mon, 12 Jul
+Date and city of the train are verified
+***************13:00 | SECUNDERABAD JN | Mon, 12 Jul
+Date and city of the train are verified
+***************20:55 | HYDERABAD DECAN | Mon, 12 Jul
+Date and city of the train are verified
+***************11:00 | SECUNDERABAD JN | Mon, 12 Jul
+Date and city of the train are verified
